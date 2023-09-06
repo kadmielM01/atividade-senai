@@ -3,5 +3,16 @@
 <BODY>
    <H1> GIT </H1>
    <H1> VERSIONAMENTO </H1>
+   <p> 
+       · git status -> Verifica o status das alterações realizadas no repositório
+       · git add -> Adiciona arquivos ao histórico do projeto, na staging
+       · git commit -> Registra/salva a alteração no repositório
+       · git push -> Publica as alterações no repositório remoto
+       · git checkout -> Usado para criar uma nova Branch, uma ramificação do projeto principal 
+       · git merge -> Uasado para unificar as branch
+       · git pull -> Baixa as alterações no repositório remoto
+       · git remote -> Informa a pasta remota (git rmote add origin 
+                 ou permite visualizar o repositório remoto(gite remote -v)
+   </p>
 </BODY>
 </HTML>
